@@ -1,5 +1,0 @@
-streamlit
-pandas
-pillow
-pytz
-st-gsheets-connection
